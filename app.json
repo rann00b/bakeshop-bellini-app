@@ -1,0 +1,107 @@
+{
+  "id": "638ee2d731b87ba8e07309cd",
+  "name": "bakeshop",
+  "userId": "635b79a18f11b8f8794f1e00",
+  "type": "app",
+  "dateCreated": 1670308567668,
+  "lastModified": 1670308954670,
+  "defaultPage": "home",
+  "pages": [
+    {
+      "name": "home",
+      "type": "page",
+      "url": "/home",
+      "params": {},
+      "variables": [],
+      "children": [
+        {
+          "name": "h1",
+          "nodeName": "h1",
+          "elementId": "",
+          "attributes": [
+            {
+              "property": "data-id",
+              "value": "YeVK-r"
+            }
+          ],
+          "classList": [],
+          "conditionalClasses": [],
+          "contentType": "text",
+          "displayExpression": "",
+          "events": {},
+          "iterate": {
+            "array": "",
+            "variable": ""
+          },
+          "styles": [],
+          "children": [
+            {
+              "name": "text",
+              "nodeName": "text",
+              "textContent": "Bakeshop",
+              "evaluate": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "checkout",
+      "type": "page",
+      "url": "/checkout",
+      "params": {},
+      "variables": [],
+      "children": [
+        {
+          "name": "h1",
+          "nodeName": "h1",
+          "elementId": "",
+          "attributes": [
+            {
+              "property": "data-id",
+              "value": "WIwFGT"
+            }
+          ],
+          "classList": [],
+          "conditionalClasses": [],
+          "contentType": "text",
+          "displayExpression": "",
+          "events": {},
+          "iterate": {
+            "array": "",
+            "variable": ""
+          },
+          "styles": [],
+          "children": [
+            {
+              "name": "text",
+              "nodeName": "text",
+              "textContent": "Checkout",
+              "evaluate": false
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "config": {
+    "config": {
+      "parameters": [],
+      "script": ""
+    },
+    "modules": [],
+    "environments": [],
+    "properties": {},
+    "themes": [],
+    "auth": {
+      "enabled": false,
+      "mockedUserAccounts": []
+    }
+  },
+  "repository": {
+    "provider": "github",
+    "connectionId": "638d857261e83b4de1f3d36f",
+    "id": "574826339",
+    "branch": "main"
+  }
+}
