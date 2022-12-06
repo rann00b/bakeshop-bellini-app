@@ -4,7 +4,7 @@
   "userId": "635b79a18f11b8f8794f1e00",
   "type": "app",
   "dateCreated": 1670308567668,
-  "lastModified": 1670316151597,
+  "lastModified": 1670316262256,
   "defaultPage": "home",
   "pages": [
     {
@@ -17,7 +17,7 @@
         {
           "name": "h1",
           "nodeName": "h1",
-          "elementId": "title",
+          "elementId": "",
           "attributes": [
             {
               "property": "data-id",
