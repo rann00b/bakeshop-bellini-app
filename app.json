@@ -1,10 +1,8 @@
 {
-  "id": "638ee2d731b87ba8e07309cd",
-  "name": "bakeshop",
-  "userId": "635b79a18f11b8f8794f1e00",
+  "name": "test",
   "type": "app",
-  "dateCreated": 1670308567668,
-  "lastModified": 1670316262256,
+  "dateCreated": 1672705312720,
+  "lastModified": 1672705357706,
   "defaultPage": "home",
   "pages": [
     {
@@ -13,75 +11,7 @@
       "url": "/home",
       "params": {},
       "variables": [],
-      "children": [
-        {
-          "name": "h1",
-          "nodeName": "h1",
-          "elementId": "",
-          "attributes": [
-            {
-              "property": "data-id",
-              "value": "YeVK-r"
-            }
-          ],
-          "classList": [],
-          "conditionalClasses": [],
-          "contentType": "text",
-          "displayExpression": "",
-          "events": {},
-          "iterate": {
-            "array": "",
-            "variable": ""
-          },
-          "styles": [],
-          "children": [
-            {
-              "name": "text",
-              "nodeName": "text",
-              "textContent": "Bakeshop",
-              "evaluate": false
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "checkout",
-      "type": "page",
-      "url": "/checkout",
-      "params": {},
-      "variables": [],
-      "children": [
-        {
-          "name": "h1",
-          "nodeName": "h1",
-          "elementId": "",
-          "attributes": [
-            {
-              "property": "data-id",
-              "value": "WIwFGT"
-            }
-          ],
-          "classList": [],
-          "conditionalClasses": [],
-          "contentType": "text",
-          "displayExpression": "",
-          "events": {},
-          "iterate": {
-            "array": "",
-            "variable": ""
-          },
-          "styles": [],
-          "children": [
-            {
-              "name": "text",
-              "nodeName": "text",
-              "textContent": "Checkout",
-              "evaluate": false
-            }
-          ]
-        }
-      ]
+      "children": []
     }
   ],
   "config": {
@@ -90,18 +20,12 @@
       "script": ""
     },
     "modules": [],
-    "environments": [],
     "properties": {},
     "themes": [],
     "auth": {
       "enabled": false,
       "mockedUserAccounts": []
-    }
-  },
-  "repository": {
-    "provider": "github",
-    "connectionId": "638eff1a07256d1657fd29cc",
-    "id": "574826339",
-    "branch": "main"
+    },
+    "environments": []
   }
 }
